@@ -1,0 +1,6 @@
+{
+  "name": "Snake Glow",
+  "description": "Modern neon arcade Snake game with swipe and D-pad controls, customizable speeds, sound effects, and local high score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

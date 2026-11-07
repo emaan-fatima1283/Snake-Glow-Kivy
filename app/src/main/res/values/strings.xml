@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Snake Glow</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="restart">Restart</string>
+    <string name="game_over">Game Over</string>
+    <string name="score">Score</string>
+    <string name="high_score">High Score</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="sound">Sound</string>
+    <string name="haptics">Haptics</string>
+    <string name="controls">Controls</string>
+</resources>
